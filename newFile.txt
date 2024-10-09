@@ -1,1 +1,1 @@
-name:chocolife13xpos:-38ypos:-74
+name(chocolife13);xpos(-38);ypos(-74);
